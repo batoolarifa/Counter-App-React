@@ -33,7 +33,7 @@ This project is part of my journey to learn React. I focused on:
 
 3. Start the app:  
    ```bash  
-   npm start  
+   npm start dev
    ```  
 
 4. Open your browser and navigate to:  
