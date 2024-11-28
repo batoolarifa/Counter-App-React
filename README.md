@@ -2,6 +2,13 @@
 
 A simple React-based Counter App to understand state management and UI updates using the `useState` hook.  
 
+Below is a screenshot of the Counter App, showcasing its simple and interactive UI for incrementing and decrementing the counter.
+
+
+![Counter Project](https://github.com/user-attachments/assets/564af2db-ed7b-4cc1-ba3d-e629aceff04c)  
+
+
+
 ## Features  
 - Increment and decrement the counter with responsive UI updates.  
 - Clean and modern functional component design.  
