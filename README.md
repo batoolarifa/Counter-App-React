@@ -22,7 +22,7 @@ This project is part of my journey to learn React. I focused on:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/counter-app.git  
+   git clone https://github.com/batoolarifa/Counter-App-React.git
    cd counter-app  
    ```  
 
